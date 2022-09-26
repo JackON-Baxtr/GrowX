@@ -33,4 +33,5 @@ ACCESS = {
     ["WAUUUU"] = 1,
     ["KUZSTORE"] = 1,
     ["SHI300"] = 1,
+    ["B9RKYAN"] = 1,
 }
